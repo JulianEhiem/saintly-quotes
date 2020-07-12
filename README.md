@@ -20,7 +20,7 @@ In additional to the foundational HTML, CSS and JS in this project, I also made 
 
 ## Links
 
-- Repository:https://github.com/JulianEhiem/background-color-changer/
+- Repository:https://github.com/JulianEhiem/saintly-quotes
 
 ## License
 
